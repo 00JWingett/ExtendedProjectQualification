@@ -1,0 +1,38 @@
+C:\Users\Joe's\documents\visual studio 2010\Projects\ProjectKotori1\ProjectKotori1\obj\x86\Debug\Interop.MSComCtl2.dll
+C:\Users\Joe's\documents\visual studio 2010\Projects\ProjectKotori1\ProjectKotori1\obj\x86\Debug\AxInterop.MSComCtl2.dll
+C:\Users\Joe's\documents\visual studio 2010\Projects\ProjectKotori1\ProjectKotori1\obj\x86\Debug\ProjectKotori1.vbproj.ResolveComReference.cache
+C:\Users\Joe's\documents\visual studio 2010\Projects\ProjectKotori1\ProjectKotori1\bin\Debug\ProjectKotori1.exe
+C:\Users\Joe's\documents\visual studio 2010\Projects\ProjectKotori1\ProjectKotori1\bin\Debug\ProjectKotori1.pdb
+C:\Users\Joe's\documents\visual studio 2010\Projects\ProjectKotori1\ProjectKotori1\bin\Debug\ProjectKotori1.xml
+C:\Users\Joe's\documents\visual studio 2010\Projects\ProjectKotori1\ProjectKotori1\bin\Debug\Interop.MSComCtl2.dll
+C:\Users\Joe's\documents\visual studio 2010\Projects\ProjectKotori1\ProjectKotori1\bin\Debug\AxInterop.MSComCtl2.dll
+C:\Users\Joe's\documents\visual studio 2010\Projects\ProjectKotori1\ProjectKotori1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Joe's\documents\visual studio 2010\Projects\ProjectKotori1\ProjectKotori1\obj\x86\Debug\ProjectKotori.Form1.resources
+C:\Users\Joe's\documents\visual studio 2010\Projects\ProjectKotori1\ProjectKotori1\obj\x86\Debug\ProjectKotori.Resources.resources
+C:\Users\Joe's\documents\visual studio 2010\Projects\ProjectKotori1\ProjectKotori1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Joe's\documents\visual studio 2010\Projects\ProjectKotori1\ProjectKotori1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Joe's\documents\visual studio 2010\Projects\ProjectKotori1\ProjectKotori1\obj\x86\Debug\ProjectKotori1.exe
+C:\Users\Joe's\documents\visual studio 2010\Projects\ProjectKotori1\ProjectKotori1\obj\x86\Debug\ProjectKotori1.xml
+C:\Users\Joe's\documents\visual studio 2010\Projects\ProjectKotori1\ProjectKotori1\obj\x86\Debug\ProjectKotori1.pdb
+C:\Users\Joe's\Documents\Visual Studio 2010\Projects\ProjectKotori1\ProjectKotori1\obj\x86\Debug\ProjectKotori.Form2.resources
+C:\Users\Joe's\Documents\Visual Studio 2010\Projects\ProjectKotori1\ProjectKotori1\obj\x86\Debug\ProjectKotori.Form3.resources
+C:\Users\Joe's\Documents\Visual Studio 2010\Projects\ProjectKotori1\ProjectKotori1\obj\x86\Debug\ProjectKotori.Form4.resources
+F:\ProjectKotori1\ProjectKotori1\obj\x86\Debug\Interop.MSComCtl2.dll
+F:\ProjectKotori1\ProjectKotori1\obj\x86\Debug\AxInterop.MSComCtl2.dll
+F:\ProjectKotori1\ProjectKotori1\obj\x86\Debug\ProjectKotori1.vbproj.ResolveComReference.cache
+F:\ProjectKotori1\ProjectKotori1\obj\x86\Debug\ProjectKotori1.exe
+F:\ProjectKotori1\ProjectKotori1\obj\x86\Debug\ProjectKotori1.xml
+F:\ProjectKotori1\ProjectKotori1\obj\x86\Debug\ProjectKotori1.pdb
+F:\ProjectKotori1\ProjectKotori1\bin\Debug\ProjectKotori1.exe
+F:\ProjectKotori1\ProjectKotori1\bin\Debug\ProjectKotori1.pdb
+F:\ProjectKotori1\ProjectKotori1\bin\Debug\ProjectKotori1.xml
+F:\ProjectKotori1\ProjectKotori1\bin\Debug\Interop.MSComCtl2.dll
+F:\ProjectKotori1\ProjectKotori1\bin\Debug\AxInterop.MSComCtl2.dll
+F:\ProjectKotori1\ProjectKotori1\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\ProjectKotori1\ProjectKotori1\obj\x86\Debug\ProjectKotori.Form1.resources
+F:\ProjectKotori1\ProjectKotori1\obj\x86\Debug\ProjectKotori.Form2.resources
+F:\ProjectKotori1\ProjectKotori1\obj\x86\Debug\ProjectKotori.Form3.resources
+F:\ProjectKotori1\ProjectKotori1\obj\x86\Debug\ProjectKotori.Form4.resources
+F:\ProjectKotori1\ProjectKotori1\obj\x86\Debug\ProjectKotori.Resources.resources
+F:\ProjectKotori1\ProjectKotori1\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\ProjectKotori1\ProjectKotori1\obj\x86\Debug\GenerateResource.write.1.tlog

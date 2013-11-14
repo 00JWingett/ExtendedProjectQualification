@@ -1,0 +1,16 @@
+C:\Users\Joe's\AppData\Local\Temporary Projects\ProjectKotori\bin\Debug\ProjectKotori.exe
+C:\Users\Joe's\AppData\Local\Temporary Projects\ProjectKotori\bin\Debug\ProjectKotori.pdb
+C:\Users\Joe's\AppData\Local\Temporary Projects\ProjectKotori\bin\Debug\ProjectKotori.xml
+C:\Users\Joe's\AppData\Local\Temporary Projects\ProjectKotori\bin\Debug\Interop.MSComCtl2.dll
+C:\Users\Joe's\AppData\Local\Temporary Projects\ProjectKotori\bin\Debug\AxInterop.MSComCtl2.dll
+C:\Users\Joe's\AppData\Local\Temporary Projects\ProjectKotori\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Joe's\AppData\Local\Temporary Projects\ProjectKotori\obj\x86\Debug\Interop.MSComCtl2.dll
+C:\Users\Joe's\AppData\Local\Temporary Projects\ProjectKotori\obj\x86\Debug\AxInterop.MSComCtl2.dll
+C:\Users\Joe's\AppData\Local\Temporary Projects\ProjectKotori\obj\x86\Debug\ProjectKotori.vbproj.ResolveComReference.cache
+C:\Users\Joe's\AppData\Local\Temporary Projects\ProjectKotori\obj\x86\Debug\ProjectKotori.Form1.resources
+C:\Users\Joe's\AppData\Local\Temporary Projects\ProjectKotori\obj\x86\Debug\ProjectKotori.Resources.resources
+C:\Users\Joe's\AppData\Local\Temporary Projects\ProjectKotori\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Joe's\AppData\Local\Temporary Projects\ProjectKotori\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Joe's\AppData\Local\Temporary Projects\ProjectKotori\obj\x86\Debug\ProjectKotori.exe
+C:\Users\Joe's\AppData\Local\Temporary Projects\ProjectKotori\obj\x86\Debug\ProjectKotori.xml
+C:\Users\Joe's\AppData\Local\Temporary Projects\ProjectKotori\obj\x86\Debug\ProjectKotori.pdb
